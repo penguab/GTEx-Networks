@@ -1,6 +1,6 @@
 # GTEx-Networks
 
-This directory contains the MEGENA co-networks for 50 human tissues from GTEx database. The donor age was adjusted before network construction. 
+This directory contains the MEGENA co-expression networks for 50 human tissues from GTEx database. The donor age was adjusted before network construction. 
 
 Author: Peng Xu
 
